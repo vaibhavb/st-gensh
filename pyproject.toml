@@ -1,0 +1,10 @@
+[project]
+name = "st-gensh"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gensh>=0.8.8",
+    "streamlit>=1.43.0",
+]
